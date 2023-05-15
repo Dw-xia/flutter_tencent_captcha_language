@@ -14,12 +14,6 @@ String sdkVersion = await TencentCaptcha.sdkVersion;
 ```dart
 TencentCaptcha.init('<appId>');
 ```
-#### 语言代码
- TencentCaptchaConfig config = TencentCaptchaConfig(
-      userLanguage: 'en',
-      bizState: 'tencent-captcha',
-      enableDarkMode: true,
-    );
 #### 开始验证
 
 > 详细参数请参见：https://cloud.tencent.com/document/product/1110/36841
