@@ -1,6 +1,6 @@
-# flutter_tencent_captcha
+# flutter_tencent_captcha插件的多语言版本
 
-适用于 Flutter 的腾讯云验证码插件
+适用于 Flutter 的腾讯云验证码插件(添加了)
 
 [![pub version][pub-image]][pub-url]
 
@@ -82,7 +82,4 @@ await TencentCaptcha.verify(
   },
 );
 ```
-
-## 许可证
-
-[MIT](./LICENSE)
+ 
